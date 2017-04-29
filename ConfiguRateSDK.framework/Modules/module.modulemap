@@ -1,0 +1,10 @@
+framework module ConfiguRateSDK {
+  umbrella header "ConfiguRateSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module ConfiguRateSDK.Swift {
+    header "ConfiguRateSDK-Swift.h"
+}
