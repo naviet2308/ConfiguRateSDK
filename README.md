@@ -18,7 +18,7 @@ platform :ios, '9.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-    pod 'ConfiguRateSDK', :git => "https://github.com/naviet2308/ConfiguRateSDK.git", :branch => "master"
+    pod 'ConfiguRateSDK'
 end
 ```
 
@@ -30,7 +30,7 @@ $ pod install
 
 ## Usage
 
-1. Import Instabug framework header in your app delegate
+1. Import ConfiguRateSDK framework header in your app delegate
 
     ```swift
     // Swift
@@ -38,10 +38,11 @@ $ pod install
     ```
 
 2. Add the following to your view controller.
-	
+
 	```swift
 	// Swift
-	ConfiguRateButton(sourceVC: Your_ViewController)
+  let virtualId = "YOUR_VIRTUAL_ID" // Contact [Appable](http://goappable.com/)
+	ConfiguRateButton(target: self, virtualId: virtualId)
 	```
 
 ## License

@@ -9,8 +9,6 @@
 /* Begin PBXBuildFile section */
 		31562F3F1EB3BE3C0092C015 /* ConfiguRateSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 31562F3D1EB3BE3C0092C015 /* ConfiguRateSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		31562F4E1EB3BE910092C015 /* AuthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31562F451EB3BE910092C015 /* AuthViewController.swift */; };
-		31562F4F1EB3BE910092C015 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31562F461EB3BE910092C015 /* BaseViewController.swift */; };
-		31562F501EB3BE910092C015 /* bg_app@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 31562F471EB3BE910092C015 /* bg_app@2x.png */; };
 		31562F511EB3BE910092C015 /* bg_app@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 31562F481EB3BE910092C015 /* bg_app@3x.png */; };
 		31562F521EB3BE910092C015 /* ConfiguRateButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31562F491EB3BE910092C015 /* ConfiguRateButton.swift */; };
 		31562F551EB3BE910092C015 /* ic_exit.png in Resources */ = {isa = PBXBuildFile; fileRef = 31562F4C1EB3BE910092C015 /* ic_exit.png */; };
@@ -22,8 +20,6 @@
 		31562F3D1EB3BE3C0092C015 /* ConfiguRateSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConfiguRateSDK.h; sourceTree = "<group>"; };
 		31562F3E1EB3BE3C0092C015 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		31562F451EB3BE910092C015 /* AuthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthViewController.swift; sourceTree = "<group>"; };
-		31562F461EB3BE910092C015 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
-		31562F471EB3BE910092C015 /* bg_app@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_app@2x.png"; sourceTree = "<group>"; };
 		31562F481EB3BE910092C015 /* bg_app@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_app@3x.png"; sourceTree = "<group>"; };
 		31562F491EB3BE910092C015 /* ConfiguRateButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfiguRateButton.swift; sourceTree = "<group>"; };
 		31562F4C1EB3BE910092C015 /* ic_exit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_exit.png; sourceTree = "<group>"; };
@@ -61,13 +57,11 @@
 			isa = PBXGroup;
 			children = (
 				31562F451EB3BE910092C015 /* AuthViewController.swift */,
-				31562F461EB3BE910092C015 /* BaseViewController.swift */,
-				31562F471EB3BE910092C015 /* bg_app@2x.png */,
-				31562F481EB3BE910092C015 /* bg_app@3x.png */,
 				31562F491EB3BE910092C015 /* ConfiguRateButton.swift */,
+				31562F3D1EB3BE3C0092C015 /* ConfiguRateSDK.h */,
+				31562F481EB3BE910092C015 /* bg_app@3x.png */,
 				31562F4C1EB3BE910092C015 /* ic_exit.png */,
 				31562F4D1EB3BE910092C015 /* logo.png */,
-				31562F3D1EB3BE3C0092C015 /* ConfiguRateSDK.h */,
 				31562F3E1EB3BE3C0092C015 /* Info.plist */,
 			);
 			path = ConfiguRateSDK;
@@ -145,7 +139,6 @@
 			files = (
 				31562F561EB3BE910092C015 /* logo.png in Resources */,
 				31562F511EB3BE910092C015 /* bg_app@3x.png in Resources */,
-				31562F501EB3BE910092C015 /* bg_app@2x.png in Resources */,
 				31562F551EB3BE910092C015 /* ic_exit.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -159,7 +152,6 @@
 			files = (
 				31562F4E1EB3BE910092C015 /* AuthViewController.swift in Sources */,
 				31562F521EB3BE910092C015 /* ConfiguRateButton.swift in Sources */,
-				31562F4F1EB3BE910092C015 /* BaseViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
