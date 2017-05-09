@@ -30,16 +30,18 @@ $ pod install
 
 ## Usage
 
-1. Import ConfiguRateSDK framework header in your app delegate
+1. Import ConfiguRateSDK framework header in your ViewController
 
 ```swift
+///Swift
 import ConfiguRateSDK
 ```
 
 2. Add the following to your view controller.
 
 ```swift
-let virtualId = "YOUR_VIRTUAL_ID" // Contact [Appable](http://goappable.com/) to get YOUR_VIRTUAL_ID
+///Swift
+let virtualId = "YOUR_VIRTUAL_ID" // Contact Appable (http://goappable.com) to get YOUR_VIRTUAL_ID
 ConfiguRateButton(target: self, virtualId: virtualId)
 ```
 
