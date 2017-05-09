@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ConfiguRateSDK"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Integrate a button to show ConfiguRate survey"
   s.homepage     = "http://goappable.com/"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
