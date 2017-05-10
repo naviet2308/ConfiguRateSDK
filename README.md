@@ -3,7 +3,7 @@
 ## Requirements
 
 - iOS 9.0+
-- Xcode 8.1+
+- Xcode 8.3.2+
 - Swift 3.1
 
 ## Installation
