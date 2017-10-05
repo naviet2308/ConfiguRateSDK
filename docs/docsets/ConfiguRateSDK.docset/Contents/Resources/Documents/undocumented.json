@@ -1,0 +1,82 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/CRProgressHUB.swift",
+      "line": 11,
+      "symbol": "CRProgressHUB",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/CRProgressHUB.swift",
+      "line": 13,
+      "symbol": "CRProgressHUB.collectionOfViews",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/CRProgressHUB.swift",
+      "line": 18,
+      "symbol": "CRProgressHUB.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/CRProgressHUB.swift",
+      "line": 23,
+      "symbol": "CRProgressHUB.show(toView:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/CRProgressHUB.swift",
+      "line": 44,
+      "symbol": "CRProgressHUB.runAnimation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/CRProgressHUB.swift",
+      "line": 48,
+      "symbol": "CRProgressHUB.stopAnimation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/CRProgressHUB.swift",
+      "line": 56,
+      "symbol": "CRProgressHUB.handleAnimation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/ConfiguRateButton.swift",
+      "line": 11,
+      "symbol": "frameworkBundle",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/SurveyViewController.swift",
+      "line": 42,
+      "symbol": "SurveyViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/SurveyViewController.swift",
+      "line": 113,
+      "symbol": "SurveyViewController.showHUB(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/SurveyViewController.swift",
+      "line": 123,
+      "symbol": "SurveyViewController.webViewDidFinishLoad(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/vietnguyen/iOS/ConfiguRateSDK"
+}

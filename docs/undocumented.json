@@ -1,0 +1,33 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/CRProgressHUB.swift",
+      "line": 11,
+      "symbol": "CRProgressHUB",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/CRProgressHUB.swift",
+      "line": 21,
+      "symbol": "CRProgressHUB.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/SurveyViewController.swift",
+      "line": 42,
+      "symbol": "SurveyViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vietnguyen/iOS/ConfiguRateSDK/ConfiguRateSDK/SurveyViewController.swift",
+      "line": 128,
+      "symbol": "SurveyViewController.webViewDidFinishLoad(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/vietnguyen/iOS/ConfiguRateSDK"
+}
