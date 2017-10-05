@@ -3,8 +3,8 @@
 ## Requirements
 
 - iOS 9.0+
-- Xcode 8.3.2+
-- Swift 3.1
+- Xcode 8.1+
+- Swift 3.0+
 
 ## Installation
 
@@ -18,7 +18,7 @@ platform :ios, '9.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-    pod 'ConfiguRateSDK', '~> 1.0.2'
+    pod 'ConfiguRateSDK'
 end
 ```
 
