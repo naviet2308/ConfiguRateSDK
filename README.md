@@ -41,8 +41,9 @@ import ConfiguRateSDK
 
 ```swift
 ///Swift
-let virtualId = "YOUR_VIRTUAL_ID" // Contact Appable (http://goappable.com) to get YOUR_VIRTUAL_ID
-ConfiguRateButton(target: self, virtualId: virtualId)
+let virtualId = "YOUR_VIRTUAL_ID" // Contact ConfiguRate Team (https://www.configurateapp.com/) to get YOUR_VIRTUAL_ID
+let deviceUDID = "YOUR_DEVICE_UDID"
+ConfiguRateButton(target: self, virtualId: virtualId, udid: deviceUDID)
 ```
 
 ## License
